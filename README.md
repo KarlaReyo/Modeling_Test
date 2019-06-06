@@ -1,8 +1,17 @@
 # Modeling_Test
 
-## Rules
-You are free to use any tool and machine you have rightful access to.
-You can use any programming language. Python is prefered.
-
 ## Problem
-We want to understand the customer behavior against different products. We want to predict the purchase amount of customer against various products to generate personalized offers for customers with different products.
+Given some transactions, we want to understand the purchase behavior against different products to generate personalized offers.
+
+The data is a sample of transactions we are trying to predict the dependent variable (the amount of purchase) with the help of the information contained in the other variables.
+
+Your model performance will be evaluated on the basis of your prediction of the purchase amount, you can use any data error metric, the root mean squared error (RMSE) is suggested.
+
+## Evaluation
+
+For the evaluation send your problem statement and final conclusions in any of the following formats: Notebook, Pdf, Ppt. Also attaches the code with the modeling process. 
+
+
+## Rules
+You are free to use any tool/machine you have access.
+You can use any programming language. Python is prefered.
